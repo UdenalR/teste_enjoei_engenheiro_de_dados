@@ -26,7 +26,7 @@ pip install -r requirements.txt
 3. Execução do script:
 
 ```
-python main.py
+python teste_enjoei_api.ipynb
 ```
 
 4. Arquivo gerado no diretório `output/`.
