@@ -57,7 +57,8 @@ A Fake Store API oferece endpoints para acesso a dados fictícios de produtos, c
 ![imagem5](Imagens/Imagem5.jpg)
 
 #### Processamento dos dados, leitura e iterações:
-![imagem6](Imagens/Imagem6.jpg);(Imagens/Imagem6.1.jpg)
+![imagem6](Imagens/Imagem6.jpg)
+![imagem6](Imagens/Imagem6.1.jpg)
 
 Nesta parte do código, estamos processando os dados dos carrinhos de compras. Aqui, iteramos sobre cada carrinho e atualizamos as informações do usuário em um dicionário `user_data`. 
 
