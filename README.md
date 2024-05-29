@@ -31,6 +31,8 @@ python main.py
 
 4. Arquivo gerado no diretório `output/`.
 
+## Descrição por imagens
+
 #### Acessando a API: 
 ![imagem1](Imagens/Imagem1.jpg)
 
