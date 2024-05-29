@@ -45,7 +45,7 @@ A Fake Store API oferece endpoints para acesso a dados fictícios de produtos, c
 ![imagem1](Imagens/Imagem1.jpg)
 
 #### Configurando o logger para registro de erros: 
-![imagem2](imagens/imagem2.png)
+![imagem2](Imagens/Imagem2.jpg)
 
 #### Obtendo os carrinhos da API: 
 ![imagem3](Imagens/Imagem3.jpg)
