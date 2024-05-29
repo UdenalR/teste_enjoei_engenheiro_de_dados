@@ -41,23 +41,23 @@ A Fake Store API oferece endpoints para acesso a dados fictícios de produtos, c
 
 ### Descrição do print
 
-#### Imagem 1: 
-![Acessando a API](imagens/imagem1.png)
+#### Acessando a API: 
+![imagem1](imagens/imagem1.png)
 
-#### Imagem 2: 
-![Configurando o logger para registro de erros](imagens/imagem2.png)
+#### Configurando o logger para registro de erros: 
+![imagem2](imagens/imagem2.png)
 
-#### Imagem 3: 
-![Obtendo os carrinhos da API](imagens/imagem3.png)
+#### Obtendo os carrinhos da API: 
+![imagem3](imagens/imagem3.png)
 
-#### Imagem 4: 
-![Contagem do número de carrinhos](imagens/imagem4.png)
+#### Contagem do número de carrinhos: 
+![imagem4](imagens/imagem4.png)
 
-#### Imagem 5: 
-![Inicializando o dicionário de dados do usuário](imagens/imagem5.png)
+#### Inicializando o dicionário de dados do usuário: 
+![imagem5](imagens/imagem5.png)
 
-#### Imagem 6: 
-![Processamento dos dados, leitura e iterações.](imagens/imagem6.png),(imagens/imagem6.1.png)
+#### Processamento dos dados, leitura e iterações:
+![imagem6](imagens/imagem6.png),(imagens/imagem6.1.png)
 
 Nesta parte do código, estamos processando os dados dos carrinhos de compras. Aqui, iteramos sobre cada carrinho e atualizamos as informações do usuário em um dicionário `user_data`. 
 
@@ -68,6 +68,6 @@ Nesta parte do código, estamos processando os dados dos carrinhos de compras. A
 
 Após o término da iteração é exibido o total de registros processados.
 
-#### Imagem 7: 
-![Criando DataFrame e salvando em CSV](imagens/imagem7.png)
+#### Criando DataFrame e salvando em CSV: 
+![imagem7](imagens/imagem7.png)
 ```
